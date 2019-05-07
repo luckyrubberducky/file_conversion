@@ -1,0 +1,2 @@
+compile command:
+g++ convert.cpp -I/usr/local/include/opencascade -lTKSTL -lTKSTEP -lTKMesh -lTKXSBase -lTKBRep -lTKG3d -lTKernel -o convert
